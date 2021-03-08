@@ -1,0 +1,20 @@
+--- 
+title: "Oklahoma Policy Institute Research Methods and Processes"
+author: "Ryan Gentzler, Research Director"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "A guide to the research methods and processes used by the Oklahoma Policy Institute Research Team and Open Justice Oklahoma."
+---
+
+# Welcome
+
+This book aims to lay out the research standards used by the Oklahoma Policy Institute's Research Team and by Open Justice Oklahoma. OK Policy's reputation as a reliable, fact-based nonpartisan think tank depends on our ability to maintain high standards in our research and our use of data. While we have always held ourselves to that high standard, advances in open source tools and reproducible data analysis over the last decade-plus of our existence provide us the opportunity to be transparent with our work. 
+
+Additionally, OK Policy's work has evolved from analysis of state budgets and contextualizing research by academics and national organizations to much more original research of our own, especially through the work of Open Justice Oklahoma. As our Research Team grows to touch on new policy areas and data sources, this book will provide a framework for both carrying out our rigorous, purposeful data analysis projects as well as a background for outsiders who are using or evaluating our work. 
+
